@@ -1,31 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">Data Analyst • Turning data into actionable insights</h3>
-
-- 🌱 I’m currently learning **Power BI Advanced Dashboards, Machine Learning, and Marketing Analytics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ankitsinghsanger](https://github.com/ankitsinghsanger)
-
-- 💬 Ask me about **Data Analysis, Business Intelligence, SQL, Python**
-
-- 📫 How to reach me **ankit111944@gmail.com**
-
-- ⚡ Fun fact **I turn raw data into insights faster .**
-
-<img align="left"><img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6b64d2f1-17dd-49f1-b994-20a642cc8ce8" />
-"
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankitsinghsanger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankitsinghsanger/" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit_singhxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_singhxo" height="30" width="40" /></a>
+<!-- HEADER IMAGE / Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700px" alt="Data Analyst Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
+<h3 align="center">📊 Data Analyst • Turning Data into Actionable Insights</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsinghsanger&show_icons=true&locale=en&layout=compact" alt="ankitsinghsanger" /></p>
+---
 
-<!--
-**ankitsinghsanger/ankitsinghsanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 Currently learning **Power BI Advanced Dashboards, Machine Learning, Marketing Analytics**  
+- 👨‍💻 All my projects are here: **[GitHub](https://github.com/ankitsinghsanger)**  
+- 💬 Ask me about **Data Analysis, Business Intelligence, SQL, Python**  
+- 📫 Reach me at **ankit111944@gmail.com**  
+- ⚡ Fun fact: *I turn raw data into insights faster than your WiFi loads memes!* 😄  
 
+---
 
--->
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/ankitsinghsanger" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ankit_singhxo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghsanger&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghsanger&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
